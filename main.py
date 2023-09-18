@@ -1,3 +1,8 @@
+"""
+    Author: Keren A. Pájaro C.
+    Description: Code to read a dataset and answer basic statistical question from its data.
+"""
+
 import csv
 import os
 import matplotlib.pyplot as plt
